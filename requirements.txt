@@ -1,0 +1,6 @@
+Flask
+requests
+folium
+protobuf
+flask-cors
+python-dotenv
